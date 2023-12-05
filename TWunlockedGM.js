@@ -30,7 +30,7 @@
     } }; })();
 
     //Main code
-    let scriptURL = 'https://cdn.jsdelivr.net/gh/Ashimee/surv.is-a.dev@latest/twU_Console.js?version='+Date.now().toString();
+    let scriptURL = 'https://cdn.jsdelivr.net/gh/Ashimee/ashimee.github.io@latest/twU_Console.js?version='+Date.now().toString();
     let scriptID = 'TWunlocked-Script-'+GM.info.scriptHandler;
 
     GM_addElement('script', {
