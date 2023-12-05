@@ -31,7 +31,7 @@
     } }; })();
 
     //Main code
-    let scriptURL = `https://corsproxy.io/?${encodeURIComponent('https://raw.githubusercontent.com/Ashimee/surv.is-a.dev/main/twU_Console.js?version='+Date.now().toString())}`;
+    let scriptURL = `https://corsproxy.io/?${encodeURIComponent('https://raw.githubusercontent.com/Ashimee/ashimee.github.io/main/twU_Console.js?version='+Date.now().toString())}`;
 
     GM_xmlhttpRequest({
         method: "GET",
